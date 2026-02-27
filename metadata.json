@@ -1,0 +1,7 @@
+{
+  "name": "Aura Air Quality",
+  "description": "AI-powered air quality monitoring and predictive insights dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
